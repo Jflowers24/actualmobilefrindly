@@ -25,7 +25,7 @@
 
 .shofu1{
     position: relative;
-    left:19px;
+    left:20px;
     top:-150px;
     width: 300pt;
     height: 240pt ;
@@ -63,6 +63,11 @@
     margin: 5px;
 }
 
+.text{
+color:#fae8c8
+
+}
+
 @media only screen and (max-width:420px){
     .body{
         background-color: black;
@@ -96,7 +101,7 @@
     
     .shofu1{
         position: absolute;
-        left: 340px;
+        left: 390px;
         width: 150px;
         height: 120pt ;
         top:283px;
