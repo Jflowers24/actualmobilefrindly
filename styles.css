@@ -1,0 +1,176 @@
+.body{
+    background-color: black;
+}
+
+.mygoat{
+    color:crimson;
+    font: size 60px;
+    
+}
+.shofu{
+    color:crimson;
+    font-size: 100px;
+}
+.shofu2{
+    height: 300px;
+    width: 300px;
+    
+    
+}
+.shofu3{
+    height: 300px;
+    width: 300px;
+    
+}
+
+.shofu1{
+    position: relative;
+    left:19px;
+    top:-150px;
+    width: 300pt;
+    height: 240pt ;
+}
+
+.shobio{
+    color:antiquewhite;
+    font-size:large;
+}
+
+.vid{
+    width: 500px;;
+    height:300px;
+
+}
+
+.table{
+    width:300px;
+    color:#fae8c8;
+}
+.table2{
+    background-color: rgb(82, 55, 41);
+}
+.tab{
+    font-size: larger;
+    color:#fae8c8;
+}
+.heehee{
+    color:#fae8c8
+}
+
+.tables{
+    width:300px;
+    padding: 10px;
+    margin: 5px;
+}
+
+@media only screen and (max-width:420px){
+    .body{
+        background-color: black;
+    }
+    
+    .mygoat{
+        color:crimson;
+        font-size: 200%;
+        position: relative;
+        left:35px;
+        
+    }
+    .shofu{
+        color:crimson;
+        font-size: 100px;
+        position: relative;
+        left:35px;
+    }
+    .shofu2{
+        height: 150px;
+        width: 150px;
+
+        
+    }
+    .shofu3{
+        height: 150px;
+        width: 150px;
+        position: relative;
+        left: -90px;
+    }
+    
+    .shofu1{
+        position: absolute;
+        left: 340px;
+        width: 150px;
+        height: 120pt ;
+        top:283px;
+    }
+    
+    .shobio{
+        color:antiquewhite;
+        font-size:large;
+        position: relative;
+        left:50px;
+    }
+    
+    .vid{
+        width: 200px;
+        height:150px;
+
+    
+    }
+
+    .vid2{
+        width:190px;
+        position:relative;
+        left: 70px;
+    }
+
+    
+    .table1{
+        width:150px;
+        color:#fae8c8;
+        position: relative;
+        left:100px;
+        top:-120px;
+
+    }
+    .table2{
+        background-color: rgb(82, 55, 41);
+    }
+
+    .table3{
+        width:150px;
+        color:#fae8c8;
+        position: relative;
+        left:-10px;
+        top:10px;
+    }
+
+    .vid3{
+        width:190px;
+        position:relative;
+        left: -60px;
+
+    }
+
+    .table4{
+        width:250px;
+        color:#fae8c8;
+        position: relative;
+        left:-150px;
+        top:-190px;
+        height:10px;
+    }
+
+
+    .tab{
+        font-size: larger;
+        color:#fae8c8;
+    }
+    .heehee{
+        color:#fae8c8
+    }
+    
+    .tables{
+        width:300px;
+        padding: 10px;
+        margin: 5px;
+    }
+}
