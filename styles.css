@@ -20,12 +20,13 @@
 .shofu3{
     height: 300px;
     width: 300px;
+    position:relative;
     
 }
 
 .shofu1{
     position: relative;
-    left:20px;
+    left:300px;
     top:-150px;
     width: 300pt;
     height: 240pt ;
@@ -33,7 +34,7 @@
 
 .shobio{
     color:antiquewhite;
-    font-size:large;
+    font-size:50px;
 }
 
 .vid{
@@ -101,7 +102,7 @@ color:#fae8c8
     
     .shofu1{
         position: absolute;
-        left: 390px;
+        left: 340px;
         width: 150px;
         height: 120pt ;
         top:283px;
